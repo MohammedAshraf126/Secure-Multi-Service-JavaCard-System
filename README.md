@@ -369,35 +369,34 @@ Once both sides are mutually authenticated, secure data exchange can proceed.
 * **SHA-256 (Secure Hash Algorithm 256-bit):** Hashing algorithm used in conjunction with ECDSA for signature generation and verification.
 
 ## Project Structure
-Secure-Multi-Service-JavaCard-System/
-├── src/
-│   ├── javacard-applets/
-│   │   ├── com/
-│   │   │   ├── Moh/
-│   │   │   │   ├── transport/
-│   │   │   │   │   └── transport.java
-│   │   │   └── voting/
-│   │   │       └── Myvoting1.java
-│   │   └── com/
-│   │       └── Metwally/
-│   │           ├── Banking/
-│   │           │   └── Banking.java
-│   │           └── Electricity/
-│   │               └── Electricity.java
-│   └── python-readers/
-│       ├── bank_reader.py
-│       ├── Electricity_reader.py
-│       ├── transport_reader.py
-│       └── voting_reader.py
-├── data/
-│   ├── user_account.json
-│   ├── electricity_db.json
-│   ├── transport_db.json
-│   └── DB_Voting.json
-├── docs/
-│   ├── architecture.md
-│   ├── setup.md
-│   └── usage.md
-├── .gitignore
-├── LICENSE
-└── README.md
+- Secure-Multi-Service-JavaCard-System/
+  - src/
+    - javacard-applets/
+      - com/
+        - Moh/
+          - transport/
+            - transport.java
+          - voting/
+            - Myvoting1.java
+        - Metwally/
+          - Banking/
+            - Banking.java
+          - Electricity/
+            - Electricity.java
+    - python-readers/
+      - bank_reader.py
+      - Electricity_reader.py
+      - transport_reader.py
+      - voting_reader.py
+  - data/
+    - user_account.json
+    - electricity_db.json
+    - transport_db.json
+    - DB_Voting.json
+  - docs/
+    - architecture.md
+    - setup.md
+    - usage.md
+  - .gitignore
+  - LICENSE
+  - README.md
