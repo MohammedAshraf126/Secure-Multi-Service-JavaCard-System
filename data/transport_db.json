@@ -1,0 +1,1083 @@
+{
+  "users": {
+    "38475620394857102": {
+      "name": "Mohammed Ashraf Metwally",
+      "balance": 93.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Matareyya",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T06:54:54.369619"
+        },
+        {
+          "type": "purchase",
+          "destination": "New El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T06:55:46.541360"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Demerdash",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T06:59:30.953826"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T06:59:53.877329"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Matareyya",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T23:22:33.816419"
+        },
+        {
+          "type": "purchase",
+          "destination": "Dar El-Salam",
+          "amount": 7.0,
+          "timestamp": "2025-07-05T18:26:02.973729"
+        },
+        {
+          "type": "purchase",
+          "destination": "Al-Shohadaa",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T16:28:53.671116"
+        }
+      ]
+    },
+    "12345678901234567": {
+      "name": "Another Passenger",
+      "balance": 50.0,
+      "history": []
+    },
+    "11223344556677889": {
+      "name": "Ahmed Hassan Mohamed",
+      "balance": 75.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Sadat",
+          "amount": 10.0,
+          "timestamp": "2025-07-02T08:15:30.123456"
+        },
+        {
+          "type": "purchase",
+          "destination": "Nasser",
+          "amount": 5.0,
+          "timestamp": "2025-07-03T09:22:15.654321"
+        }
+      ]
+    },
+    "22334455667788990": {
+      "name": "Fatima Ali Mahmoud",
+      "balance": 120.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Mar Girgis",
+          "amount": 7.0,
+          "timestamp": "2025-07-01T07:30:45.789123"
+        },
+        {
+          "type": "purchase",
+          "destination": "Al-Sayeda Zeinab",
+          "amount": 5.0,
+          "timestamp": "2025-07-02T16:45:20.456789"
+        },
+        {
+          "type": "purchase",
+          "destination": "Helwan",
+          "amount": 10.0,
+          "timestamp": "2025-07-04T12:10:30.147258"
+        }
+      ]
+    },
+    "33445566778899001": {
+      "name": "Omar Mostafa Ibrahim",
+      "balance": 45.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ghamra",
+          "amount": 10.0,
+          "timestamp": "2025-07-05T06:55:40.321654"
+        }
+      ]
+    },
+    "44556677889900112": {
+      "name": "Maryam Youssef Abdel Rahman",
+      "balance": 200.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Helwan University",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T09:15:25.987654"
+        },
+        {
+          "type": "purchase",
+          "destination": "Tora El-Balad",
+          "amount": 7.0,
+          "timestamp": "2025-07-03T14:20:10.654987"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Zahraa",
+          "amount": 5.0,
+          "timestamp": "2025-07-06T11:35:55.123789"
+        }
+      ]
+    },
+    "55667788990011223": {
+      "name": "Khalid Adel Farouk",
+      "balance": 30.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Kobri El-Qobba",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T08:45:30.456123"
+        },
+        {
+          "type": "purchase",
+          "destination": "Saray El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T17:20:45.789456"
+        }
+      ]
+    },
+    "66778899001122334": {
+      "name": "Noura Samir Othman",
+      "balance": 85.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ain Shams",
+          "amount": 10.0,
+          "timestamp": "2025-07-02T10:30:20.147369"
+        }
+      ]
+    },
+    "77889900112233445": {
+      "name": "Mahmoud Tariq Saleh",
+      "balance": 140.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ezbet El-Nakhl",
+          "amount": 10.0,
+          "timestamp": "2025-07-04T13:15:40.852741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayeq El-Zaitoun",
+          "amount": 7.0,
+          "timestamp": "2025-07-05T19:25:15.963852"
+        },
+        {
+          "type": "purchase",
+          "destination": "Manshiet El-Sadr",
+          "amount": 5.0,
+          "timestamp": "2025-07-06T07:50:35.741852"
+        }
+      ]
+    },
+    "88990011223344556": {
+      "name": "Layla Nabil Ramadan",
+      "balance": 60.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Wadi Hof",
+          "amount": 10.0,
+          "timestamp": "2025-07-03T15:40:25.369147"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayek Helwan",
+          "amount": 7.0,
+          "timestamp": "2025-07-07T12:20:50.258741"
+        }
+      ]
+    },
+    "99001122334455667": {
+      "name": "Hassan Karim Zaki",
+      "balance": 25.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Maasara",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T11:55:30.147258"
+        },
+        {
+          "type": "purchase",
+          "destination": "Tora El-Asmant",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T16:30:45.963741"
+        }
+      ]
+    },
+    "10011223344556678": {
+      "name": "Yasmin Fouad Mansour",
+      "balance": 110.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Kozzika",
+          "amount": 7.0,
+          "timestamp": "2025-07-02T08:25:40.741963"
+        },
+        {
+          "type": "purchase",
+          "destination": "Sakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-04T14:10:20.852147"
+        }
+      ]
+    },
+    "20112233445566789": {
+      "name": "Amr Hesham Gaber",
+      "balance": 90.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Hadayek El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-05T09:45:15.369741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Thakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-06T18:20:35.147852"
+        }
+      ]
+    },
+    "30223344556677890": {
+      "name": "Salma Ramy Hosny",
+      "balance": 175.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Malek El-Saleh",
+          "amount": 5.0,
+          "timestamp": "2025-07-01T12:35:50.963147"
+        },
+        {
+          "type": "purchase",
+          "destination": "Saad Zaghloul",
+          "amount": 5.0,
+          "timestamp": "2025-07-03T20:15:25.741369"
+        }
+      ]
+    },
+    "40334455667788901": {
+      "name": "Tarek Ashraf Selim",
+      "balance": 55.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Orabi",
+          "amount": 5.0,
+          "timestamp": "2025-07-07T07:20:40.258963"
+        }
+      ]
+    },
+    "50445566778899012": {
+      "name": "Rana Waleed Farid",
+      "balance": 65.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Hammamat El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-02T13:50:30.147741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Helmeyet El-Zaitoun",
+          "amount": 10.0,
+          "timestamp": "2025-07-08T21:25:15.852369"
+        }
+      ]
+    },
+    "60556677889900123": {
+      "name": "Kareem Magdy Sabry",
+      "balance": 40.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ain Helwan",
+          "amount": 10.0,
+          "timestamp": "2025-07-04T10:15:45.741258"
+        }
+      ]
+    },
+    "70667788990011234": {
+      "name": "Dina Sherif Naguib",
+      "balance": 130.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "New El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T14:40:20.369852"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-05T11:55:35.147963"
+        }
+      ]
+    },
+    "80778899001122345": {
+      "name": "Youssef Ahmed Reda",
+      "balance": 80.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Matareyya",
+          "amount": 10.0,
+          "timestamp": "2025-07-06T15:30:50.963741"
+        }
+      ]
+    },
+    "90889900112233456": {
+      "name": "Nour El-Din Tamer Farag",
+      "balance": 95.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Helwan",
+          "amount": 10.0,
+          "timestamp": "2025-07-03T08:20:25.258147"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Demerdash",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T19:45:40.741852"
+        }
+      ]
+    },
+    "01990011223344567": {
+      "name": "Heba Gamal El-Deeb",
+      "balance": 105.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Al-Shohadaa",
+          "amount": 10.0,
+          "timestamp": "2025-07-02T16:25:15.369963"
+        }
+      ]
+    },
+    "12001122334455678": {
+      "name": "Mostafa Wael Hamdy",
+      "balance": 70.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ghamra",
+          "amount": 10.0,
+          "timestamp": "2025-07-04T09:35:30.147741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Dar El-Salam",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T22:10:45.852258"
+        }
+      ]
+    },
+    "23011223344556789": {
+      "name": "Mai Emad Bakr",
+      "balance": 155.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Mar Girgis",
+          "amount": 7.0,
+          "timestamp": "2025-07-01T17:20:50.963369"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Zahraa",
+          "amount": 5.0,
+          "timestamp": "2025-07-05T06:40:25.741147"
+        }
+      ]
+    },
+    "34012233445567890": {
+      "name": "Hatem Khaled Shawky",
+      "balance": 35.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Sadat",
+          "amount": 10.0,
+          "timestamp": "2025-07-06T13:55:40.258852"
+        }
+      ]
+    },
+    "45012334455678901": {
+      "name": "Reem Osama Fayek",
+      "balance": 115.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Nasser",
+          "amount": 5.0,
+          "timestamp": "2025-07-03T11:15:20.147369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Orabi",
+          "amount": 5.0,
+          "timestamp": "2025-07-07T20:30:35.963741"
+        }
+      ]
+    },
+    "56012345567890123": {
+      "name": "Adel Mohamed Amin",
+      "balance": 50.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Kobri El-Qobba",
+          "amount": 10.0,
+          "timestamp": "2025-07-02T12:45:50.741258"
+        }
+      ]
+    },
+    "67012345678901234": {
+      "name": "Aya Mahmoud Ismail",
+      "balance": 185.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Manshiet El-Sadr",
+          "amount": 5.0,
+          "timestamp": "2025-07-04T15:20:15.369852"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hammamat El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T08:50:30.147963"
+        }
+      ]
+    },
+    "78012345689012345": {
+      "name": "Bassem Hany Morsi",
+      "balance": 75.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Saray El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-01T18:35:45.963147"
+        }
+      ]
+    },
+    "89012345690123456": {
+      "name": "Nada Essam Ghoneim",
+      "balance": 125.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Hadayeq El-Zaitoun",
+          "amount": 7.0,
+          "timestamp": "2025-07-05T14:25:20.741369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Helmeyet El-Zaitoun",
+          "amount": 10.0,
+          "timestamp": "2025-07-06T21:40:35.258741"
+        }
+      ]
+    },
+    "90123456701234567": {
+      "name": "Samy Ihab Soliman",
+      "balance": 45.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ain Shams",
+          "amount": 10.0,
+          "timestamp": "2025-07-03T07:55:50.147852"
+        }
+      ]
+    },
+    "01234567812345678": {
+      "name": "Lina Amgad Tantawy",
+      "balance": 160.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ezbet El-Nakhl",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T16:10:25.369963"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-08T09:35:40.741147"
+        }
+      ]
+    },
+    "12345678923456789": {
+      "name": "Ziad Ayman Abdel Aziz",
+      "balance": 85.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "New El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-02T19:20:15.852369"
+        }
+      ]
+    },
+    "23456789034567890": {
+      "name": "Shaimaa Taha Mokhtar",
+      "balance": 100.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Wadi Hof",
+          "amount": 10.0,
+          "timestamp": "2025-07-04T12:45:30.147258"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayek Helwan",
+          "amount": 7.0,
+          "timestamp": "2025-07-06T17:15:45.963741"
+        }
+      ]
+    },
+    "34567890145678901": {
+      "name": "Eslam Bahaa Zakaria",
+      "balance": 55.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Maasara",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T10:30:20.741852"
+        }
+      ]
+    },
+    "45678901256789012": {
+      "name": "Marwa Saeed El-Sayed",
+      "balance": 140.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Tora El-Asmant",
+          "amount": 7.0,
+          "timestamp": "2025-07-05T13:20:35.258147"
+        },
+        {
+          "type": "purchase",
+          "destination": "Kozzika",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T18:45:50.369963"
+        }
+      ]
+    },
+    "56789012367890123": {
+      "name": "Medhat Reda Abdel Wahab",
+      "balance": 65.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Tora El-Balad",
+          "amount": 7.0,
+          "timestamp": "2025-07-03T15:55:25.147741"
+        }
+      ]
+    },
+    "67890123478901234": {
+      "name": "Nesma Amir Yacout",
+      "balance": 120.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Sakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-02T11:40:40.852258"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayek El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-07T14:25:15.741369"
+        }
+      ]
+    },
+    "78901234589012345": {
+      "name": "Karim Hazem Abdel Fattah",
+      "balance": 90.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Thakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-04T08:15:30.963147"
+        }
+      ]
+    },
+    "89012345690123478": {
+      "name": "Rania Maher El-Khatib",
+      "balance": 170.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Dar El-Salam",
+          "amount": 7.0,
+          "timestamp": "2025-07-01T16:50:45.147852"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Zahraa",
+          "amount": 5.0,
+          "timestamp": "2025-07-06T22:30:20.258741"
+        }
+      ]
+    },
+    "90123456701234589": {
+      "name": "Abdelrahman Nour Hashim",
+      "balance": 40.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Mar Girgis",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T06:45:35.369963"
+        }
+      ]
+    },
+    "01234567812345679": {
+      "name": "Hend Fady Mansour",
+      "balance": 110.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Malek El-Saleh",
+          "amount": 5.0,
+          "timestamp": "2025-07-03T12:20:50.741147"
+        },
+        {
+          "type": "purchase",
+          "destination": "Al-Sayeda Zeinab",
+          "amount": 5.0,
+          "timestamp": "2025-07-05T19:35:25.852369"
+        }
+      ]
+    },
+    "12345678923456790": {
+      "name": "Sherif Alaa Darwish",
+      "balance": 75.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Saad Zaghloul",
+          "amount": 5.0,
+          "timestamp": "2025-07-02T14:50:40.147258"
+        }
+      ]
+    },
+    "23456789034567891": {
+      "name": "Radwa Hossam El-Hadidy",
+      "balance": 135.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Sadat",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T11:25:15.963741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Nasser",
+          "amount": 5.0,
+          "timestamp": "2025-07-08T17:40:30.741852"
+        }
+      ]
+    },
+    "34567890145678902": {
+      "name": "Wael Mahmoud Sharaf",
+      "balance": 50.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Orabi",
+          "amount": 5.0,
+          "timestamp": "2025-07-04T09:15:45.258147"
+        }
+      ]
+    },
+    "45678901256789013": {
+      "name": "Ghada Medhat Kamel",
+      "balance": 195.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Al-Shohadaa",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T13:30:20.369963"
+        },
+        {
+          "type": "purchase",
+          "destination": "Ghamra",
+          "amount": 10.0,
+          "timestamp": "2025-07-06T20:55:35.147741"
+        }
+      ]
+    },
+    "56789012367890124": {
+      "name": "Mina Rafik Tadros",
+      "balance": 80.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Demerdash",
+          "amount": 10.0,
+          "timestamp": "2025-07-05T15:40:50.852258"
+        }
+      ]
+    },
+    "67890123478901235": {
+      "name": "Samar Ashraf Zidan",
+      "balance": 105.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Manshiet El-Sadr",
+          "amount": 5.0,
+          "timestamp": "2025-07-03T18:25:25.741369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Kobri El-Qobba",
+          "amount": 10.0,
+          "timestamp": "2025-07-08T07:50:40.963147"
+        }
+      ]
+    },
+    "78901234589012346": {
+      "name": "Amira Sameh Roshdy",
+      "balance": 60.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Hammamat El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-02T21:15:15.147852"
+        }
+      ]
+    },
+    "89012345690123690": {
+      "name": "Hany Mostafa Fahmy",
+      "balance": 145.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Saray El-Qobba",
+          "amount": 7.0,
+          "timestamp": "2025-07-04T10:35:30.258741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayeq El-Zaitoun",
+          "amount": 7.0,
+          "timestamp": "2025-07-07T16:20:45.369963"
+        }
+      ]
+    },
+    "90123456701234801": {
+      "name": "Doaa Ibrahim Fouad",
+      "balance": 85.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Helmeyet El-Zaitoun",
+          "amount": 10.0,
+          "timestamp": "2025-07-01T08:45:20.741147"
+        }
+      ]
+    },
+    "01234567812345680": {
+      "name": "Tamer Mohamed Sabri",
+      "balance": 25.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Matareyya",
+          "amount": 10.0,
+          "timestamp": "2025-07-06T12:30:35.852369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Ain Shams",
+          "amount": 10.0,
+          "timestamp": "2025-07-08T19:55:50.147258"
+        }
+      ]
+    },
+    "12345678923456791": {
+      "name": "Nagwa Hisham Ragab",
+      "balance": 115.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Ezbet El-Nakhl",
+          "amount": 10.0,
+          "timestamp": "2025-07-05T17:10:25.963741"
+        }
+      ]
+    },
+    "23456789034567892": {
+      "name": "Waleed Gamal Helal",
+      "balance": 70.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-03T14:45:40.741852"
+        },
+        {
+          "type": "purchase",
+          "destination": "New El-Marg",
+          "amount": 10.0,
+          "timestamp": "2025-07-07T21:20:15.258147"
+        }
+      ]
+    },
+    "34567890234567903": {
+      "name": "Aliaa Khaled Morsy",
+      "balance": 125.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Helwan University",
+          "amount": 10.0,
+          "timestamp": "2025-07-09T08:30:25.147369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Ain Helwan",
+          "amount": 10.0,
+          "timestamp": "2025-07-12T14:45:40.963741"
+        }
+      ]
+    },
+    "45678901345678014": {
+      "name": "Mahmoud Emad Farouk",
+      "balance": 85.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Wadi Hof",
+          "amount": 10.0,
+          "timestamp": "2025-07-10T09:15:50.258147"
+        }
+      ]
+    },
+    "56789012456789125": {
+      "name": "Nourhan Tarek Abdel Latif",
+      "balance": 160.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Hadayek Helwan",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T16:20:35.741852"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Maasara",
+          "amount": 10.0,
+          "timestamp": "2025-07-11T11:55:20.369741"
+        },
+        {
+          "type": "purchase",
+          "destination": "Tora El-Asmant",
+          "amount": 7.0,
+          "timestamp": "2025-07-13T07:30:45.147258"
+        }
+      ]
+    },
+    "67890123567890236": {
+      "name": "Amir Nabil El-Sharkawy",
+      "balance": 45.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Kozzika",
+          "amount": 7.0,
+          "timestamp": "2025-07-09T12:40:15.852369"
+        },
+        {
+          "type": "purchase",
+          "destination": "Tora El-Balad",
+          "amount": 7.0,
+          "timestamp": "2025-07-12T18:25:30.963147"
+        }
+      ]
+    },
+    "78901234678901347": {
+      "name": "Iman Hazem Soliman",
+      "balance": 190.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Sakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-08T10:50:45.741258"
+        },
+        {
+          "type": "purchase",
+          "destination": "Hadayek El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-10T15:35:20.147852"
+        }
+      ]
+    },
+    "89012345789012458": {
+      "name": "Yehia Rami Abdel Moneim",
+      "balance": 55.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Thakanat El-Maadi",
+          "amount": 5.0,
+          "timestamp": "2025-07-11T13:20:35.258741"
+        }
+      ]
+    },
+    "90123456890123569": {
+      "name": "Soha Adel Habib",
+      "balance": 135.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Dar El-Salam",
+          "amount": 7.0,
+          "timestamp": "2025-07-09T17:45:50.369963"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Zahraa",
+          "amount": 5.0,
+          "timestamp": "2025-07-13T09:10:25.741147"
+        }
+      ]
+    },
+    "01234567901234670": {
+      "name": "Kamal Ahmed El-Gohary",
+      "balance": 95.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Mar Girgis",
+          "amount": 7.0,
+          "timestamp": "2025-07-08T14:30:40.852258"
+        },
+        {
+          "type": "purchase",
+          "destination": "El-Malek El-Saleh",
+          "amount": 5.0,
+          "timestamp": "2025-07-12T20:15:15.147369"
+        }
+      ]
+    },
+    "12345678012345781": {
+      "name": "Rasha Samy El-Ashry",
+      "balance": 75.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Al-Sayeda Zeinab",
+          "amount": 5.0,
+          "timestamp": "2025-07-10T11:25:30.963741"
+        }
+      ]
+    },
+    "23456789123456892": {
+      "name": "Hazem Fouad Youssef",
+      "balance": 205.0,
+      "history": [
+        {
+          "type": "purchase",
+          "destination": "Saad Zaghloul",
+          "amount": 5.0,
+          "timestamp": "2025-07-09T19:40:45.258147"
+        },
+        {
+          "type": "purchase",
+          "destination": "Sadat",
+          "amount": 10.0,
+          "timestamp": "2025-07-11T06:55:20.741852"
+        },
+        {
+          "type": "purchase",
+          "destination": "Nasser",
+          "amount": 5.0,
+          "timestamp": "2025-07-13T16:20:35.369963"
+        }
+      ]
+    }
+  },
+  "fares": {
+    "9_stations_or_less": 5.0,
+    "16_stations_or_less": 7.0,
+    "more_than_16_stations": 10.0
+  },
+  "stations": [
+    "Helwan",
+    "Ain Helwan",
+    "Helwan University",
+    "Wadi Hof",
+    "Hadayek Helwan",
+    "El-Maasara",
+    "Tora El-Asmant",
+    "Kozzika",
+    "Tora El-Balad",
+    "Sakanat El-Maadi",
+    "Hadayek El-Maadi",
+    "Thakanat El-Maadi",
+    "Dar El-Salam",
+    "El-Zahraa",
+    "Mar Girgis",
+    "El-Malek El-Saleh",
+    "Al-Sayeda Zeinab",
+    "Saad Zaghloul",
+    "Sadat",
+    "Nasser",
+    "Orabi",
+    "Al-Shohadaa",
+    "Ghamra",
+    "El-Demerdash",
+    "Manshiet El-Sadr",
+    "Kobri El-Qobba",
+    "Hammamat El-Qobba",
+    "Saray El-Qobba",
+    "Hadayeq El-Zaitoun",
+    "Helmeyet El-Zaitoun",
+    "El-Matareyya",
+    "Ain Shams",
+    "Ezbet El-Nakhl",
+    "El-Marg",
+    "New El-Marg"
+  ]
+}

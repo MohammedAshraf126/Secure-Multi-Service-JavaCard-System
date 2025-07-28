@@ -1,0 +1,1087 @@
+{
+  "54729103847291028": {
+    "owner_name": "Mohammed Metwally",
+    "authorized_meter": "109384756193847",
+    "balance": 400.0
+  },
+  "98765432109876543": {
+    "owner_name": "Alsayed sameth",
+    "authorized_meter": "999888777666555",
+    "balance": 120.0
+  },
+  "12345678901234567": {
+    "owner_name": "ali hassan",
+    "authorized_meter": "123456789012345",
+    "balance": 250.75
+  },
+  "88774455223366112": {
+    "owner_name": "Ahmed Hassan",
+    "authorized_meter": "887744552233661",
+    "balance": 89.50
+  },
+  "33698521478963210": {
+    "owner_name": "Maria Rodriguez",
+    "authorized_meter": "336985214789632",
+    "balance": 315.25
+  },
+  "55443322110099887": {
+    "owner_name": "David Thompson",
+    "authorized_meter": "554433221100998",
+    "balance": 175.00
+  },
+  "77889966554477332": {
+    "owner_name": "Fatima Al-Zahra",
+    "authorized_meter": "778899665544773",
+    "balance": 450.80
+  },
+  "19283746556472839": {
+    "owner_name": "James Wilson",
+    "authorized_meter": "192837465564728",
+    "balance": 67.30
+  },
+  "44556677889900123": {
+    "owner_name": "Layla Ibrahim",
+    "authorized_meter": "445566778899001",
+    "balance": 298.95
+  },
+  "66332211445588997": {
+    "owner_name": "Robert Chen",
+    "authorized_meter": "663322114455889",
+    "balance": 156.40
+  },
+  "11223344556677889": {
+    "owner_name": "Nour El-Din",
+    "authorized_meter": "112233445566778",
+    "balance": 380.60
+  },
+  "99887766554433221": {
+    "owner_name": "Emily Davis",
+    "authorized_meter": "998877665544332",
+    "balance": 203.15
+  },
+  "10001000100010001": {
+    "owner_name": "محمد عبدالله",
+    "authorized_meter": "100010001000100",
+    "balance": 125.30
+  },
+  "10002000200020002": {
+    "owner_name": "فاطمة أحمد",
+    "authorized_meter": "100020002000200",
+    "balance": 289.45
+  },
+  "10003000300030003": {
+    "owner_name": "علي حسن",
+    "authorized_meter": "100030003000300",
+    "balance": 456.70
+  },
+  "10004000400040004": {
+    "owner_name": "عائشة محمود",
+    "authorized_meter": "100040004000400",
+    "balance": 178.90
+  },
+  "10005000500050005": {
+    "owner_name": "أحمد صالح",
+    "authorized_meter": "100050005000500",
+    "balance": 345.60
+  },
+  "10006000600060006": {
+    "owner_name": "زينب إبراهيم",
+    "authorized_meter": "100060006000600",
+    "balance": 234.80
+  },
+  "10007000700070007": {
+    "owner_name": "عمر خالد",
+    "authorized_meter": "100070007000700",
+    "balance": 567.20
+  },
+  "10008000800080008": {
+    "owner_name": "مريم عادل",
+    "authorized_meter": "100080008000800",
+    "balance": 89.15
+  },
+  "10009000900090009": {
+    "owner_name": "يوسف محمد",
+    "authorized_meter": "100090009000900",
+    "balance": 398.75
+  },
+  "10010001000100010": {
+    "owner_name": "سارة أنور",
+    "authorized_meter": "100100010001000",
+    "balance": 267.35
+  },
+  "10011001100110011": {
+    "owner_name": "إبراهيم طارق",
+    "authorized_meter": "100110011001100",
+    "balance": 445.90
+  },
+  "10012001200120012": {
+    "owner_name": "نور الهدى",
+    "authorized_meter": "100120012001200",
+    "balance": 156.25
+  },
+  "10013001300130013": {
+    "owner_name": "حسام الدين",
+    "authorized_meter": "100130013001300",
+    "balance": 378.40
+  },
+  "10014001400140014": {
+    "owner_name": "هدى سمير",
+    "authorized_meter": "100140014001400",
+    "balance": 223.85
+  },
+  "10015001500150015": {
+    "owner_name": "كريم وليد",
+    "authorized_meter": "100150015001500",
+    "balance": 512.10
+  },
+  "10016001600160016": {
+    "owner_name": "ليلى فاروق",
+    "authorized_meter": "100160016001600",
+    "balance": 98.60
+  },
+  "10017001700170017": {
+    "owner_name": "عبدالرحمن علي",
+    "authorized_meter": "100170017001700",
+    "balance": 334.75
+  },
+  "10018001800180018": {
+    "owner_name": "نادية حمدي",
+    "authorized_meter": "100180018001800",
+    "balance": 189.30
+  },
+  "10019001900190019": {
+    "owner_name": "خالد عبدالعزيز",
+    "authorized_meter": "100190019001900",
+    "balance": 467.85
+  },
+  "10020002000200020": {
+    "owner_name": "رانيا مصطفى",
+    "authorized_meter": "100200020002000",
+    "balance": 278.50
+  },
+  "10021002100210021": {
+    "owner_name": "محمود سعد",
+    "authorized_meter": "100210021002100",
+    "balance": 356.95
+  },
+  "10022002200220022": {
+    "owner_name": "أسماء جمال",
+    "authorized_meter": "100220022002200",
+    "balance": 145.70
+  },
+  "10023002300230023": {
+    "owner_name": "طارق نبيل",
+    "authorized_meter": "100230023002300",
+    "balance": 423.15
+  },
+  "10024002400240024": {
+    "owner_name": "منى عثمان",
+    "authorized_meter": "100240024002400",
+    "balance": 234.90
+  },
+  "10025002500250025": {
+    "owner_name": "سامي رشاد",
+    "authorized_meter": "100250025002500",
+    "balance": 545.30
+  },
+  "10026002600260026": {
+    "owner_name": "دينا كمال",
+    "authorized_meter": "100260026002600",
+    "balance": 167.80
+  },
+  "10027002700270027": {
+    "owner_name": "وائل شريف",
+    "authorized_meter": "100270027002700",
+    "balance": 389.65
+  },
+  "10028002800280028": {
+    "owner_name": "سلمى بدر",
+    "authorized_meter": "100280028002800",
+    "balance": 212.40
+  },
+  "10029002900290029": {
+    "owner_name": "عادل فؤاد",
+    "authorized_meter": "100290029002900",
+    "balance": 478.25
+  },
+  "10030003000300030": {
+    "owner_name": "ياسمين ياسر",
+    "authorized_meter": "100300030003000",
+    "balance": 298.75
+  },
+  "10031003100310031": {
+    "owner_name": "باسم رمضان",
+    "authorized_meter": "100310031003100",
+    "balance": 367.50
+  },
+  "10032003200320032": {
+    "owner_name": "هالة فتحي",
+    "authorized_meter": "100320032003200",
+    "balance": 156.85
+  },
+  "10033003300330033": {
+    "owner_name": "شريف حاتم",
+    "authorized_meter": "100330033003300",
+    "balance": 445.20
+  },
+  "10034003400340034": {
+    "owner_name": "غادة عماد",
+    "authorized_meter": "100340034003400",
+    "balance": 223.95
+  },
+  "10035003500350035": {
+    "owner_name": "نصر الدين",
+    "authorized_meter": "100350035003500",
+    "balance": 534.60
+  },
+  "10036003600360036": {
+    "owner_name": "رحاب سليم",
+    "authorized_meter": "100360036003600",
+    "balance": 178.30
+  },
+  "10037003700370037": {
+    "owner_name": "مصطفى زكي",
+    "authorized_meter": "100370037003700",
+    "balance": 398.85
+  },
+  "10038003800380038": {
+    "owner_name": "إيمان رفعت",
+    "authorized_meter": "100380038003800",
+    "balance": 267.40
+  },
+  "10039003900390039": {
+    "owner_name": "رامي نصار",
+    "authorized_meter": "100390039003900",
+    "balance": 456.15
+  },
+  "10040004000400040": {
+    "owner_name": "نهى صبري",
+    "authorized_meter": "100400040004000",
+    "balance": 189.70
+  },
+  "10041004100410041": {
+    "owner_name": "جمال العدوي",
+    "authorized_meter": "100410041004100",
+    "balance": 378.95
+  },
+  "10042004200420042": {
+    "owner_name": "لبنى محفوظ",
+    "authorized_meter": "100420042004200",
+    "balance": 245.60
+  },
+  "10043004300430043": {
+    "owner_name": "هشام عبده",
+    "authorized_meter": "100430043004300",
+    "balance": 523.85
+  },
+  "10044004400440044": {
+    "owner_name": "سناء حبيب",
+    "authorized_meter": "100440044004400",
+    "balance": 167.25
+  },
+  "10045004500450045": {
+    "owner_name": "عماد شوقي",
+    "authorized_meter": "100450045004500",
+    "balance": 389.50
+  },
+  "10046004600460046": {
+    "owner_name": "داليا نور",
+    "authorized_meter": "100460046004600",
+    "balance": 278.15
+  },
+  "10047004700470047": {
+    "owner_name": "فيصل قاسم",
+    "authorized_meter": "100470047004700",
+    "balance": 467.80
+  },
+  "10048004800480048": {
+    "owner_name": "شيماء حلمي",
+    "authorized_meter": "100480048004800",
+    "balance": 198.45
+  },
+  "10049004900490049": {
+    "owner_name": "مهند ضياء",
+    "authorized_meter": "100490049004900",
+    "balance": 412.70
+  },
+  "10050005000500050": {
+    "owner_name": "عبير صلاح",
+    "authorized_meter": "100500050005000",
+    "balance": 334.90
+  },
+  "10051005100510051": {
+    "owner_name": "كمال فريد",
+    "authorized_meter": "100510051005100",
+    "balance": 256.35
+  },
+  "10052005200520052": {
+    "owner_name": "سهير جابر",
+    "authorized_meter": "100520052005200",
+    "balance": 445.60
+  },
+  "10053005300530053": {
+    "owner_name": "حازم عطية",
+    "authorized_meter": "100530053005300",
+    "balance": 178.85
+  },
+  "10054005400540054": {
+    "owner_name": "نيفين طه",
+    "authorized_meter": "100540054005400",
+    "balance": 398.20
+  },
+  "10055005500550055": {
+    "owner_name": "سعيد منصور",
+    "authorized_meter": "100550055005500",
+    "balance": 289.75
+  },
+  "10056005600560056": {
+    "owner_name": "إنجي فهمي",
+    "authorized_meter": "100560056005600",
+    "balance": 512.40
+  },
+  "10057005700570057": {
+    "owner_name": "وليد حنفي",
+    "authorized_meter": "100570057005700",
+    "balance": 167.95
+  },
+  "10058005800580058": {
+    "owner_name": "مها عبدالباقي",
+    "authorized_meter": "100580058005800",
+    "balance": 378.60
+  },
+  "10059005900590059": {
+    "owner_name": "أشرف حسين",
+    "authorized_meter": "100590059005900",
+    "balance": 245.25
+  },
+  "10060006000600060": {
+    "owner_name": "ريهام ماهر",
+    "authorized_meter": "100600060006000",
+    "balance": 456.90
+  },
+  "10061006100610061": {
+    "owner_name": "محمد صفوت",
+    "authorized_meter": "100610061006100",
+    "balance": 189.55
+  },
+  "10062006200620062": {
+    "owner_name": "نجلاء بسيم",
+    "authorized_meter": "100620062006200",
+    "balance": 367.80
+  },
+  "10063006300630063": {
+    "owner_name": "عصام رجب",
+    "authorized_meter": "100630063006300",
+    "balance": 278.45
+  },
+  "10064006400640064": {
+    "owner_name": "أميرة شعبان",
+    "authorized_meter": "100640064006400",
+    "balance": 523.70
+  },
+  "10065006500650065": {
+    "owner_name": "حمدي عوض",
+    "authorized_meter": "100650065006500",
+    "balance": 156.15
+  },
+  "10066006600660066": {
+    "owner_name": "رضوى يحيى",
+    "authorized_meter": "100660066006600",
+    "balance": 398.85
+  },
+  "10067006700670067": {
+    "owner_name": "ماجد عبدالمنعم",
+    "authorized_meter": "100670067006700",
+    "balance": 267.50
+  },
+  "10068006800680068": {
+    "owner_name": "سمية نادر",
+    "authorized_meter": "100680068006800",
+    "balance": 445.25
+  },
+  "10069006900690069": {
+    "owner_name": "توفيق سامح",
+    "authorized_meter": "100690069006900",
+    "balance": 178.90
+  },
+  "10070007000700070": {
+    "owner_name": "منال ظافر",
+    "authorized_meter": "100700070007000",
+    "balance": 389.65
+  },
+  "10071007100710071": {
+    "owner_name": "صبري مراد",
+    "authorized_meter": "100710071007100",
+    "balance": 298.30
+  },
+  "10072007200720072": {
+    "owner_name": "هبة عاصم",
+    "authorized_meter": "100720072007200",
+    "balance": 512.95
+  },
+  "10073007300730073": {
+    "owner_name": "فتحي غانم",
+    "authorized_meter": "100730073007300",
+    "balance": 167.60
+  },
+  "10074007400740074": {
+    "owner_name": "كريستين رمزي",
+    "authorized_meter": "100740074007400",
+    "balance": 378.25
+  },
+  "10075007500750075": {
+    "owner_name": "سامر وديع",
+    "authorized_meter": "100750075007500",
+    "balance": 245.90
+  },
+  "10076007600760076": {
+    "owner_name": "نسرين ممدوح",
+    "authorized_meter": "100760076007600",
+    "balance": 456.55
+  },
+  "10077007700770077": {
+    "owner_name": "شكري خليل",
+    "authorized_meter": "100770077007700",
+    "balance": 189.20
+  },
+  "10078007800780078": {
+    "owner_name": "عفاف حمادة",
+    "authorized_meter": "100780078007800",
+    "balance": 367.85
+  },
+  "10079007900790079": {
+    "owner_name": "يسري زغلول",
+    "authorized_meter": "100790079007900",
+    "balance": 278.50
+  },
+  "10080008000800080": {
+    "owner_name": "ولاء قنديل",
+    "authorized_meter": "100800080008000",
+    "balance": 523.15
+  },
+  "10081008100810081": {
+    "owner_name": "عزت رياض",
+    "authorized_meter": "100810081008100",
+    "balance": 156.80
+  },
+  "10082008200820082": {
+    "owner_name": "سعاد لطفي",
+    "authorized_meter": "100820082008200",
+    "balance": 398.45
+  },
+  "10083008300830083": {
+    "owner_name": "زكريا عبدالله",
+    "authorized_meter": "100830083008300",
+    "balance": 267.10
+  },
+  "10084008400840084": {
+    "owner_name": "بسمة عبدالفتاح",
+    "authorized_meter": "100840084008400",
+    "balance": 445.75
+  },
+  "10085008500850085": {
+    "owner_name": "رمزي موسى",
+    "authorized_meter": "100850085008500",
+    "balance": 178.40
+  },
+  "10086008600860086": {
+    "owner_name": "حنان سعيد",
+    "authorized_meter": "100860086008600",
+    "balance": 389.05
+  },
+  "10087008700870087": {
+    "owner_name": "عمرو هيكل",
+    "authorized_meter": "100870087008700",
+    "balance": 298.70
+  },
+  "10088008800880088": {
+    "owner_name": "صفاء عزمي",
+    "authorized_meter": "100880088008800",
+    "balance": 512.35
+  },
+  "10089008900890089": {
+    "owner_name": "جابر حامد",
+    "authorized_meter": "100890089008900",
+    "balance": 167.00
+  },
+  "10090009000900090": {
+    "owner_name": "نشوى عبدالعال",
+    "authorized_meter": "100900090009000",
+    "balance": 378.65
+  },
+  "10091009100910091": {
+    "owner_name": "مدحت فاضل",
+    "authorized_meter": "100910091009100",
+    "balance": 245.30
+  },
+  "10092009200920092": {
+    "owner_name": "شريهان نصر",
+    "authorized_meter": "100920092009200",
+    "balance": 456.95
+  },
+  "10093009300930093": {
+    "owner_name": "حاتم زيدان",
+    "authorized_meter": "100930093009300",
+    "balance": 189.60
+  },
+  "10094009400940094": {
+    "owner_name": "عالية فخري",
+    "authorized_meter": "100940094009400",
+    "balance": 367.25
+  },
+  "10095009500950095": {
+    "owner_name": "زياد مرسي",
+    "authorized_meter": "100950095009500",
+    "balance": 278.90
+  },
+  "10096009600960096": {
+    "owner_name": "إيناس جودة",
+    "authorized_meter": "100960096009600",
+    "balance": 523.55
+  },
+  "10097009700970097": {
+    "owner_name": "سليمان عوني",
+    "authorized_meter": "100970097009700",
+    "balance": 156.20
+  },
+  "10098009800980098": {
+    "owner_name": "جيهان صدقي",
+    "authorized_meter": "100980098009800",
+    "balance": 398.85
+  },
+  "10099009900990099": {
+    "owner_name": "فريد سرور",
+    "authorized_meter": "100990099009900",
+    "balance": 267.50
+  },
+  "10100010001000100": {
+    "owner_name": "شيرين كامل",
+    "authorized_meter": "101000100010001",
+    "balance": 445.15
+  },
+  "20001000100010001": {
+    "owner_name": "Alexander Smith",
+    "authorized_meter": "200010001000100",
+    "balance": 325.40
+  },
+  "20002000200020002": {
+    "owner_name": "Isabella Garcia",
+    "authorized_meter": "200020002000200",
+    "balance": 189.75
+  },
+  "20003000300030003": {
+    "owner_name": "William Johnson",
+    "authorized_meter": "200030003000300",
+    "balance": 456.30
+  },
+  "20004000400040004": {
+    "owner_name": "Emma Brown",
+    "authorized_meter": "200040004000400",
+    "balance": 278.95
+  },
+  "20005000500050005": {
+    "owner_name": "James Wilson",
+    "authorized_meter": "200050005000500",
+    "balance": 367.60
+  },
+  "20006000600060006": {
+    "owner_name": "Olivia Davis",
+    "authorized_meter": "200060006000600",
+    "balance": 234.25
+  },
+  "20007000700070007": {
+    "owner_name": "Benjamin Miller",
+    "authorized_meter": "200070007000700",
+    "balance": 523.90
+  },
+  "20008000800080008": {
+    "owner_name": "Charlotte Anderson",
+    "authorized_meter": "200080008000800",
+    "balance": 156.55
+  },
+  "20009000900090009": {
+    "owner_name": "Lucas Martinez",
+    "authorized_meter": "200090009000900",
+    "balance": 398.20
+  },
+  "20010001000100010": {
+    "owner_name": "Sophia Taylor",
+    "authorized_meter": "200100010001000",
+    "balance": 267.85
+  },
+  "20011001100110011": {
+    "owner_name": "Henry Thomas",
+    "authorized_meter": "200110011001100",
+    "balance": 445.50
+  },
+  "20012001200120012": {
+    "owner_name": "Amelia Jackson",
+    "authorized_meter": "200120012001200",
+    "balance": 178.15
+  },
+  "20013001300130013": {
+    "owner_name": "Mason White",
+    "authorized_meter": "200130013001300",
+    "balance": 389.80
+  },
+  "20014001400140014": {
+    "owner_name": "Evelyn Harris",
+    "authorized_meter": "200140014001400",
+    "balance": 298.45
+  },
+  "20015001500150015": {
+    "owner_name": "Ethan Martin",
+    "authorized_meter": "200150015001500",
+    "balance": 512.10
+  },
+  "20016001600160016": {
+    "owner_name": "Harper Thompson",
+    "authorized_meter": "200160016001600",
+    "balance": 167.75
+  },
+  "20017001700170017": {
+    "owner_name": "Sebastian Garcia",
+    "authorized_meter": "200170017001700",
+    "balance": 378.40
+  },
+  "20018001800180018": {
+    "owner_name": "Abigail Martinez",
+    "authorized_meter": "200180018001800",
+    "balance": 245.05
+  },
+  "20019001900190019": {
+    "owner_name": "Owen Robinson",
+    "authorized_meter": "200190019001900",
+    "balance": 456.70
+  },
+  "20020002000200020": {
+    "owner_name": "Emily Clark",
+    "authorized_meter": "200200020002000",
+    "balance": 189.35
+  },
+  "20021002100210021": {
+    "owner_name": "Jacob Rodriguez",
+    "authorized_meter": "200210021002100",
+    "balance": 367.00
+  },
+  "20022002200220022": {
+    "owner_name": "Elizabeth Lewis",
+    "authorized_meter": "200220022002200",
+    "balance": 278.65
+  },
+  "20023002300230023": {
+    "owner_name": "Michael Lee",
+    "authorized_meter": "200230023002300",
+    "balance": 523.30
+  },
+  "20024002400240024": {
+    "owner_name": "Mia Walker",
+    "authorized_meter": "200240024002400",
+    "balance": 156.95
+  },
+  "20025002500250025": {
+    "owner_name": "Daniel Hall",
+    "authorized_meter": "200250025002500",
+    "balance": 398.60
+  },
+  "20026002600260026": {
+    "owner_name": "Victoria Allen",
+    "authorized_meter": "200260026002600",
+    "balance": 267.25
+  },
+  "20027002700270027": {
+    "owner_name": "David Young",
+    "authorized_meter": "200270027002700",
+    "balance": 445.90
+  },
+  "20028002800280028": {
+    "owner_name": "Grace Hernandez",
+    "authorized_meter": "200280028002800",
+    "balance": 178.55
+  },
+  "20029002900290029": {
+    "owner_name": "Matthew King",
+    "authorized_meter": "200290029002900",
+    "balance": 389.20
+  },
+  "20030003000300030": {
+    "owner_name": "Chloe Wright",
+    "authorized_meter": "200300030003000",
+    "balance": 298.85
+  },
+  "20031003100310031": {
+    "owner_name": "Andrew Lopez",
+    "authorized_meter": "200310031003100",
+    "balance": 512.50
+  },
+  "20032003200320032": {
+    "owner_name": "Zoey Hill",
+    "authorized_meter": "200320032003200",
+    "balance": 167.15
+  },
+  "20033003300330033": {
+    "owner_name": "Joshua Scott",
+    "authorized_meter": "200330033003300",
+    "balance": 378.80
+  },
+  "20034003400340034": {
+    "owner_name": "Lily Green",
+    "authorized_meter": "200340034003400",
+    "balance": 245.45
+  },
+  "20035003500350035": {
+    "owner_name": "Christopher Adams",
+    "authorized_meter": "200350035003500",
+    "balance": 457.10
+  },
+  "20036003600360036": {
+    "owner_name": "Hannah Baker",
+    "authorized_meter": "200360036003600",
+    "balance": 189.75
+  },
+  "20037003700370037": {
+    "owner_name": "Anthony Gonzalez",
+    "authorized_meter": "200370037003700",
+    "balance": 367.40
+  },
+  "20038003800380038": {
+    "owner_name": "Addison Nelson",
+    "authorized_meter": "200380038003800",
+    "balance": 278.05
+  },
+  "20039003900390039": {
+    "owner_name": "Samuel Carter",
+    "authorized_meter": "200390039003900",
+    "balance": 523.70
+  },
+  "20040004000400040": {
+    "owner_name": "Natalie Mitchell",
+    "authorized_meter": "200400040004000",
+    "balance": 156.35
+  },
+  "20041004100410041": {
+    "owner_name": "Ryan Perez",
+    "authorized_meter": "200410041004100",
+    "balance": 398.00
+  },
+  "20042004200420042": {
+    "owner_name": "Layla Roberts",
+    "authorized_meter": "200420042004200",
+    "balance": 267.65
+  },
+  "20043004300430043": {
+    "owner_name": "Nathan Turner",
+    "authorized_meter": "200430043004300",
+    "balance": 445.30
+  },
+  "20044004400440044": {
+    "owner_name": "Stella Phillips",
+    "authorized_meter": "200440044004400",
+    "balance": 178.95
+  },
+  "20045004500450045": {
+    "owner_name": "Hunter Campbell",
+    "authorized_meter": "200450045004500",
+    "balance": 389.60
+  },
+  "20046004600460046": {
+    "owner_name": "Hazel Parker",
+    "authorized_meter": "200460046004600",
+    "balance": 298.25
+  },
+  "20047004700470047": {
+    "owner_name": "Aaron Evans",
+    "authorized_meter": "200470047004700",
+    "balance": 512.90
+  },
+  "20048004800480048": {
+    "owner_name": "Violet Edwards",
+    "authorized_meter": "200480048004800",
+    "balance": 167.55
+  },
+  "20049004900490049": {
+    "owner_name": "Adrian Collins",
+    "authorized_meter": "200490049004900",
+    "balance": 378.20
+  },
+  "20050005000500050": {
+    "owner_name": "Aurora Stewart",
+    "authorized_meter": "200500050005000",
+    "balance": 245.85
+  },
+  "20051005100510051": {
+    "owner_name": "Ian Sanchez",
+    "authorized_meter": "200510051005100",
+    "balance": 456.50
+  },
+  "20052005200520052": {
+    "owner_name": "Savannah Morris",
+    "authorized_meter": "200520052005200",
+    "balance": 189.15
+  },
+  "20053005300530053": {
+    "owner_name": "Jeremiah Rogers",
+    "authorized_meter": "200530053005300",
+    "balance": 367.80
+  },
+  "20054005400540054": {
+    "owner_name": "Brooklyn Reed",
+    "authorized_meter": "200540054005400",
+    "balance": 278.45
+  },
+  "20055005500550055": {
+    "owner_name": "Eli Cook",
+    "authorized_meter": "200550055005500",
+    "balance": 523.10
+  },
+  "20056005600560056": {
+    "owner_name": "Bella Morgan",
+    "authorized_meter": "200560056005600",
+    "balance": 156.75
+  },
+  "20057005700570057": {
+    "owner_name": "Jordan Bailey",
+    "authorized_meter": "200570057005700",
+    "balance": 398.40
+  },
+  "20058005800580058": {
+    "owner_name": "Claire Cooper",
+    "authorized_meter": "200580058005800",
+    "balance": 267.05
+  },
+  "20059005900590059": {
+    "owner_name": "Xavier Richardson",
+    "authorized_meter": "200590059005900",
+    "balance": 445.70
+  },
+  "20060006000600060": {
+    "owner_name": "Skylar Cox",
+    "authorized_meter": "200600060006000",
+    "balance": 178.35
+  },
+  "20061006100610061": {
+    "owner_name": "Jose Ward",
+    "authorized_meter": "200610061006100",
+    "balance": 389.00
+  },
+  "20062006200620062": {
+    "owner_name": "Lucy Torres",
+    "authorized_meter": "200620062006200",
+    "balance": 298.65
+  },
+  "20063006300630063": {
+    "owner_name": "Connor Peterson",
+    "authorized_meter": "200630063006300",
+    "balance": 512.30
+  },
+  "20064006400640064": {
+    "owner_name": "Paisley Gray",
+    "authorized_meter": "200640064006400",
+    "balance": 167.95
+  },
+  "20065006500650065": {
+    "owner_name": "Blake James",
+    "authorized_meter": "200650065006500",
+    "balance": 378.60
+  },
+  "20066006600660066": {
+    "owner_name": "Kennedy Watson",
+    "authorized_meter": "200660066006600",
+    "balance": 245.25
+  },
+  "20067006700670067": {
+    "owner_name": "Ashton Brooks",
+    "authorized_meter": "200670067006700",
+    "balance": 456.90
+  },
+  "20068006800680068": {
+    "owner_name": "Madelyn Kelly",
+    "authorized_meter": "200680068006800",
+    "balance": 189.55
+  },
+  "20069006900690069": {
+    "owner_name": "Colton Sanders",
+    "authorized_meter": "200690069006900",
+    "balance": 367.20
+  },
+  "20070007000700070": {
+    "owner_name": "Kinsley Price",
+    "authorized_meter": "200700070007000",
+    "balance": 278.85
+  },
+  "20071007100710071": {
+    "owner_name": "Levi Bennett",
+    "authorized_meter": "200710071007100",
+    "balance": 523.50
+  },
+  "20072007200720072": {
+    "owner_name": "Genesis Wood",
+    "authorized_meter": "200720072007200",
+    "balance": 156.15
+  },
+  "20073007300730073": {
+    "owner_name": "Brayden Barnes",
+    "authorized_meter": "200730073007300",
+    "balance": 398.80
+  },
+  "20074007400740074": {
+    "owner_name": "Audrey Ross",
+    "authorized_meter": "200740074007400",
+    "balance": 267.45
+  },
+  "20075007500750075": {
+    "owner_name": "Tristan Henderson",
+    "authorized_meter": "200750075007500",
+    "balance": 445.10
+  },
+  "20076007600760076": {
+    "owner_name": "Nova Coleman",
+    "authorized_meter": "200760076007600",
+    "balance": 178.75
+  },
+  "20077007700770077": {
+    "owner_name": "Roman Jenkins",
+    "authorized_meter": "200770077007700",
+    "balance": 389.40
+  },
+  "20078007800780078": {
+    "owner_name": "Ivy Perry",
+    "authorized_meter": "200780078007800",
+    "balance": 298.05
+  },
+  "20079007900790079": {
+    "owner_name": "Carson Powell",
+    "authorized_meter": "200790079007900",
+    "balance": 512.70
+  },
+  "20080008000800080": {
+    "owner_name": "Ember Long",
+    "authorized_meter": "200800080008000",
+    "balance": 167.35
+  },
+  "20081008100810081": {
+    "owner_name": "Easton Hughes",
+    "authorized_meter": "200810081008100",
+    "balance": 378.00
+  },
+  "20082008200820082": {
+    "owner_name": "Serenity Flores",
+    "authorized_meter": "200820082008200",
+    "balance": 245.65
+  },
+  "20083008300830083": {
+    "owner_name": "Jaxon Washington",
+    "authorized_meter": "200830083008300",
+    "balance": 456.30
+  },
+  "20084008400840084": {
+    "owner_name": "Willow Butler",
+    "authorized_meter": "200840084008400",
+    "balance": 189.95
+  },
+  "20085008500850085": {
+    "owner_name": "Miles Simmons",
+    "authorized_meter": "200850085008500",
+    "balance": 367.60
+  },
+  "20086008600860086": {
+    "owner_name": "Quinn Foster",
+    "authorized_meter": "200860086008600",
+    "balance": 278.25
+  },
+  "20087008700870087": {
+    "owner_name": "Declan Gonzales",
+    "authorized_meter": "200870087008700",
+    "balance": 523.90
+  },
+  "20088008800880088": {
+    "owner_name": "Juniper Bryant",
+    "authorized_meter": "200880088008800",
+    "balance": 156.55
+  },
+  "20089008900890089": {
+    "owner_name": "Grayson Alexander",
+    "authorized_meter": "200890089008900",
+    "balance": 398.20
+  },
+  "20090009000900090": {
+    "owner_name": "Sage Russell",
+    "authorized_meter": "200900090009000",
+    "balance": 267.85
+  },
+  "20091009100910091": {
+    "owner_name": "Maverick Griffin",
+    "authorized_meter": "200910091009100",
+    "balance": 445.50
+  },
+  "20092009200920092": {
+    "owner_name": "River Diaz",
+    "authorized_meter": "200920092009200",
+    "balance": 178.15
+  },
+  "20093009300930093": {
+    "owner_name": "Kai Hayes",
+    "authorized_meter": "200930093009300",
+    "balance": 389.80
+  },
+  "20094009400940094": {
+    "owner_name": "Iris Myers",
+    "authorized_meter": "200940094009400",
+    "balance": 298.45
+  },
+  "20095009500950095": {
+    "owner_name": "Phoenix Ford",
+    "authorized_meter": "200950095009500",
+    "balance": 512.10
+  },
+  "20096009600960096": {
+    "owner_name": "Poppy Hamilton",
+    "authorized_meter": "200960096009600",
+    "balance": 167.75
+  },
+  "20097009700970097": {
+    "owner_name": "Atlas Graham",
+    "authorized_meter": "200970097009700",
+    "balance": 378.40
+  },
+  "20098009800980098": {
+    "owner_name": "Luna Sullivan",
+    "authorized_meter": "200980098009800",
+    "balance": 245.05
+  },
+  "20099009900990099": {
+    "owner_name": "Knox Wallace",
+    "authorized_meter": "200990099009900",
+    "balance": 456.70
+  },
+  "20100010001000100": {
+    "owner_name": "Dahlia Woods",
+    "authorized_meter": "201000100010001",
+    "balance": 189.35
+  },
+  "20101010101010101": {
+    "owner_name": "Felix West",
+    "authorized_meter": "201010101010101",
+    "balance": 367.00
+  },
+  "20102010201020102": {
+    "owner_name": "Wren Jordan",
+    "authorized_meter": "201020102010201",
+    "balance": 278.65
+  },
+  "20103010301030103": {
+    "owner_name": "Orion Owen",
+    "authorized_meter": "201030103010301",
+    "balance": 523.30
+  },
+  "20104010401040104": {
+    "owner_name": "Magnolia Stone",
+    "authorized_meter": "201040104010401",
+    "balance": 156.95
+  },
+  "20105010501050105": {
+    "owner_name": "Axel Reynolds",
+    "authorized_meter": "201050105010501",
+    "balance": 398.60
+  }
+}

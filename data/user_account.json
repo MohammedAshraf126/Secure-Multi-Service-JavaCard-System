@@ -1,0 +1,1086 @@
+{
+    "1416567895128452": {
+        "account_holder": "Mo Ash",
+        "balance": 7150.25,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-20T14:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 449.75,
+                "timestamp": "2025-06-22T10:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 100.0,
+                "timestamp": "2025-07-01T07:31:30.835822"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 1000.0,
+                "to": "9876543210987654",
+                "timestamp": "2025-07-01T07:32:18.999284"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 100.0,
+                "to": "9876543210987654",
+                "timestamp": "2025-07-01T07:35:10.471779"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 100.0,
+                "to": "9876543210987654",
+                "timestamp": "2025-07-01T07:46:33.542669"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 1000.0,
+                "timestamp": "2025-07-05T18:21:36.594260"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 1000.0,
+                "timestamp": "2025-07-07T16:35:31.178884"
+            }
+        ]
+    },
+    "9876543210987654": {
+        "account_holder": "youssef ASh",
+        "balance": 2700.0,
+        "history": [
+            {
+                "type": "transfer_in",
+                "amount": 1000.0,
+                "from": "1416567895128452",
+                "timestamp": "2025-07-01T07:32:18.999284"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 100.0,
+                "from": "1416567895128452",
+                "timestamp": "2025-07-01T07:35:10.471779"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 100.0,
+                "from": "1416567895128452",
+                "timestamp": "2025-07-01T07:46:33.542669"
+            }
+        ]
+    },
+    "2847391057382946": {
+        "account_holder": "Sarah zind",
+        "balance": 3425.80,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-15T09:20:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-25T11:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 250.0,
+                "timestamp": "2025-06-28T14:15:30.123456"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 324.20,
+                "to": "5192847365029384",
+                "timestamp": "2025-07-02T16:42:15.789012"
+            }
+        ]
+    },
+    "5192847365029384": {
+        "account_holder": "Ali hakim",
+        "balance": 5890.45,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3000.0,
+                "timestamp": "2025-06-18T13:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 150.0,
+                "timestamp": "2025-06-20T08:45:22.345678"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 324.20,
+                "from": "2847391057382946",
+                "timestamp": "2025-07-02T16:42:15.789012"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-07-03T10:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 283.75,
+                "timestamp": "2025-07-08T12:28:45.567890"
+            }
+        ]
+    },
+    "7384029174856201": {
+        "account_holder": "Eman Chen",
+        "balance": 1245.60,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1800.0,
+                "timestamp": "2025-06-22T16:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 200.0,
+                "timestamp": "2025-06-24T09:30:15.234567"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 354.40,
+                "timestamp": "2025-06-30T19:45:30.876543"
+            }
+        ]
+    },
+    "9102837465019283": {
+        "account_holder": "Marcus Thompson",
+        "balance": 4567.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2200.0,
+                "timestamp": "2025-06-16T12:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-28T14:30:00Z"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 500.0,
+                "to": "3847592018374650",
+                "timestamp": "2025-07-01T11:20:45.123890"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 632.10,
+                "timestamp": "2025-07-04T15:55:20.456789"
+            }
+        ]
+    },
+    "3847592018374650": {
+        "account_holder": "Lisa Rodriguez",
+        "balance": 2156.75,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1200.0,
+                "timestamp": "2025-06-19T10:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 43.25,
+                "timestamp": "2025-06-26T13:22:18.987654"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 500.0,
+                "from": "9102837465019283",
+                "timestamp": "2025-07-01T11:20:45.123890"
+            },
+            {
+                "type": "deposit",
+                "amount": 800.0,
+                "timestamp": "2025-07-06T09:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 300.0,
+                "timestamp": "2025-07-10T17:30:12.654321"
+            }
+        ]
+    },
+    "6172839405827364": {
+        "account_holder": "David Kim",
+        "balance": 8923.15,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5000.0,
+                "timestamp": "2025-06-14T08:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 3500.0,
+                "timestamp": "2025-06-21T15:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 576.85,
+                "timestamp": "2025-06-29T11:40:25.147258"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 750.0,
+                "to": "1928374650192837",
+                "timestamp": "2025-07-03T14:15:33.369741"
+            }
+        ]
+    },
+    "1928374650192837": {
+        "account_holder": "Amanda Foster",
+        "balance": 1674.30,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2025-06-17T11:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 75.70,
+                "timestamp": "2025-06-23T16:20:40.258963"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 750.0,
+                "from": "6172839405827364",
+                "timestamp": "2025-07-03T14:15:33.369741"
+            }
+        ]
+    },
+    "4829375061847392": {
+        "account_holder": "Ali Ibrahim",
+        "balance": 6325.40,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3500.0,
+                "timestamp": "2025-06-12T10:30:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-26T14:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 674.60,
+                "timestamp": "2025-06-30T16:22:45.123456"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 500.0,
+                "to": "7294856103749285",
+                "timestamp": "2025-07-02T12:45:30.987654"
+            }
+        ]
+    },
+    "7294856103749285": {
+        "account_holder": "Ahmed Alsayed",
+        "balance": 3875.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2800.0,
+                "timestamp": "2025-06-18T09:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 224.10,
+                "timestamp": "2025-06-25T11:30:15.456789"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 500.0,
+                "from": "4829375061847392",
+                "timestamp": "2025-07-02T12:45:30.987654"
+            },
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2025-07-05T13:20:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 200.0,
+                "timestamp": "2025-07-09T18:15:25.741852"
+            }
+        ]
+    },
+    "5847392615038472": {
+        "account_holder": "Omar Hassan",
+        "balance": 2456.75,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1800.0,
+                "timestamp": "2025-06-20T15:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 143.25,
+                "timestamp": "2025-06-27T10:20:18.369741"
+            },
+            {
+                "type": "deposit",
+                "amount": 1200.0,
+                "timestamp": "2025-07-01T08:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 400.0,
+                "timestamp": "2025-07-08T14:55:42.258963"
+            }
+        ]
+    },
+    "9384752619047385": {
+        "account_holder": "Fatima Al-Zahra",
+        "balance": 4982.35,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4000.0,
+                "timestamp": "2025-06-15T11:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 317.65,
+                "timestamp": "2025-06-23T16:40:30.147258"
+            },
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-29T12:15:00Z"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 200.0,
+                "to": "1947385026394857",
+                "timestamp": "2025-07-04T09:25:15.456123"
+            }
+        ]
+    },
+    "1947385026394857": {
+        "account_holder": "Khalid Abdullah",
+        "balance": 1634.20,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1200.0,
+                "timestamp": "2025-06-16T13:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 65.80,
+                "timestamp": "2025-06-24T17:10:45.789012"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 200.0,
+                "from": "9384752619047385",
+                "timestamp": "2025-07-04T09:25:15.456123"
+            },
+            {
+                "type": "deposit",
+                "amount": 500.0,
+                "timestamp": "2025-07-07T10:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 200.0,
+                "timestamp": "2025-07-11T15:30:20.654321"
+            }
+        ]
+    },
+    "6184739205847392": {
+        "account_holder": "Nour El-Din",
+        "balance": 7856.50,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5000.0,
+                "timestamp": "2025-06-13T08:15:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-21T14:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 643.50,
+                "timestamp": "2025-06-28T12:35:40.987321"
+            },
+            {
+                "type": "transfer_out",
+                "amount": 1000.0,
+                "to": "2847395016284739",
+                "timestamp": "2025-07-03T11:20:25.123789"
+            }
+        ]
+    },
+    "2847395016284739": {
+        "account_holder": "Amina Mahmoud",
+        "balance": 2345.85,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-19T16:20:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 154.15,
+                "timestamp": "2025-06-26T09:45:30.456789"
+            },
+            {
+                "type": "transfer_in",
+                "amount": 1000.0,
+                "from": "6184739205847392",
+                "timestamp": "2025-07-03T11:20:25.123789"
+            }
+        ]
+    },
+    "5029384756193847": {
+        "account_holder": "Samir Younes",
+        "balance": 3567.40,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2200.0,
+                "timestamp": "2025-06-17T12:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 1800.0,
+                "timestamp": "2025-06-25T15:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 432.60,
+                "timestamp": "2025-07-01T14:25:18.741963"
+            }
+        ]
+    },
+    "8392847506182739": {
+        "account_holder": "Mohammed Al-Rashid",
+        "balance": 5234.75,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3000.0,
+                "timestamp": "2025-06-14T10:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-27T15:20:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 265.25,
+                "timestamp": "2025-07-02T11:30:45.123456"
+            }
+        ]
+    },
+    "1847392058473920": {
+        "account_holder": "Layla Farouk",
+        "balance": 2987.65,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-16T14:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 112.35,
+                "timestamp": "2025-06-29T16:45:30.987654"
+            },
+            {
+                "type": "deposit",
+                "amount": 1100.0,
+                "timestamp": "2025-07-04T09:30:00Z"
+            }
+        ]
+    },
+    "7392847506193847": {
+        "account_holder": "Hassan Nabeel",
+        "balance": 4156.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2800.0,
+                "timestamp": "2025-06-18T11:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 343.10,
+                "timestamp": "2025-06-26T13:20:15.456789"
+            },
+            {
+                "type": "deposit",
+                "amount": 1700.0,
+                "timestamp": "2025-07-01T16:00:00Z"
+            }
+        ]
+    },
+    "2958473920184739": {
+        "account_holder": "Zeinab Mansour",
+        "balance": 6789.45,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4500.0,
+                "timestamp": "2025-06-12T08:30:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2800.0,
+                "timestamp": "2025-06-24T12:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 510.55,
+                "timestamp": "2025-07-03T14:25:20.741852"
+            }
+        ]
+    },
+    "5847392048573920": {
+        "account_holder": "Tariq Salim",
+        "balance": 1456.30,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1200.0,
+                "timestamp": "2025-06-20T09:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 143.70,
+                "timestamp": "2025-06-28T17:30:45.369741"
+            },
+            {
+                "type": "deposit",
+                "amount": 400.0,
+                "timestamp": "2025-07-06T13:45:00Z"
+            }
+        ]
+    },
+    "9384750261847392": {
+        "account_holder": "Rania Khoury",
+        "balance": 3642.85,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-15T15:20:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 257.15,
+                "timestamp": "2025-06-30T10:15:30.258963"
+            },
+            {
+                "type": "deposit",
+                "amount": 1400.0,
+                "timestamp": "2025-07-05T11:30:00Z"
+            }
+        ]
+    },
+    "1847395026384729": {
+        "account_holder": "Yusuf Amir",
+        "balance": 7825.20,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5000.0,
+                "timestamp": "2025-06-13T12:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 3200.0,
+                "timestamp": "2025-06-23T16:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 374.80,
+                "timestamp": "2025-07-01T18:20:15.147258"
+            }
+        ]
+    },
+    "6284739502847392": {
+        "account_holder": "Maryam Hilal",
+        "balance": 2134.50,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1800.0,
+                "timestamp": "2025-06-19T13:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 165.50,
+                "timestamp": "2025-06-27T15:45:25.654321"
+            },
+            {
+                "type": "deposit",
+                "amount": 500.0,
+                "timestamp": "2025-07-07T10:15:00Z"
+            }
+        ]
+    },
+    "3847295018473920": {
+        "account_holder": "Karim Wahab",
+        "balance": 5567.75,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3500.0,
+                "timestamp": "2025-06-11T09:15:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2300.0,
+                "timestamp": "2025-06-25T14:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 232.25,
+                "timestamp": "2025-07-02T16:30:40.789012"
+            }
+        ]
+    },
+    "7394850261847392": {
+        "account_holder": "Dina Ghanem",
+        "balance": 4293.40,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2700.0,
+                "timestamp": "2025-06-17T11:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 106.60,
+                "timestamp": "2025-06-29T12:45:18.456123"
+            },
+            {
+                "type": "deposit",
+                "amount": 1700.0,
+                "timestamp": "2025-07-04T15:20:00Z"
+            }
+        ]
+    },
+    "5192847365048392": {
+        "account_holder": "Adel Hakim",
+        "balance": 8456.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 6000.0,
+                "timestamp": "2025-06-10T08:45:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2800.0,
+                "timestamp": "2025-06-22T13:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 343.10,
+                "timestamp": "2025-06-30T17:25:35.987321"
+            }
+        ]
+    },
+    "8374920584739201": {
+        "account_holder": "Salma Nader",
+        "balance": 1876.25,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-21T10:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 123.75,
+                "timestamp": "2025-06-28T14:50:20.123789"
+            },
+            {
+                "type": "deposit",
+                "amount": 500.0,
+                "timestamp": "2025-07-08T16:15:00Z"
+            }
+        ]
+    },
+    "2847395061847392": {
+        "account_holder": "Fadi Bitar",
+        "balance": 6234.80,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4000.0,
+                "timestamp": "2025-06-14T15:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-26T11:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 265.20,
+                "timestamp": "2025-07-03T13:40:45.654987"
+            }
+        ]
+    },
+    "9174825063948172": {
+        "account_holder": "Hala Shahin",
+        "balance": 3789.60,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2400.0,
+                "timestamp": "2025-06-16T12:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 210.40,
+                "timestamp": "2025-06-24T16:20:30.741963"
+            },
+            {
+                "type": "deposit",
+                "amount": 1600.0,
+                "timestamp": "2025-07-01T09:30:00Z"
+            }
+        ]
+    },
+    "6384729501847392": {
+        "account_holder": "Bashir Qasemi",
+        "balance": 7123.45,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5500.0,
+                "timestamp": "2025-06-12T14:20:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-25T10:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 376.55,
+                "timestamp": "2025-07-05T12:35:25.852741"
+            }
+        ]
+    },
+    "4729384650192837": {
+        "account_holder": "Jennifer Williams",
+        "balance": 3456.80,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-15T10:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 343.20,
+                "timestamp": "2025-06-28T14:45:15.123456"
+            },
+            {
+                "type": "deposit",
+                "amount": 1300.0,
+                "timestamp": "2025-07-03T16:20:00Z"
+            }
+        ]
+    },
+    "8294756103847291": {
+        "account_holder": "Raj Patel",
+        "balance": 5890.40,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4000.0,
+                "timestamp": "2025-06-11T09:15:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2200.0,
+                "timestamp": "2025-06-24T13:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 309.60,
+                "timestamp": "2025-07-01T11:25:30.456789"
+            }
+        ]
+    },
+    "1948372650394857": {
+        "account_holder": "Ling Chen",
+        "balance": 2765.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-18T15:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 234.10,
+                "timestamp": "2025-06-26T12:40:20.789012"
+            },
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2025-07-05T08:15:00Z"
+            }
+        ]
+    },
+    "5847392016485729": {
+        "account_holder": "Carlos Mendez",
+        "balance": 4123.55,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3000.0,
+                "timestamp": "2025-06-13T11:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 176.45,
+                "timestamp": "2025-06-27T16:30:45.147258"
+            },
+            {
+                "type": "deposit",
+                "amount": 1300.0,
+                "timestamp": "2025-07-02T14:20:00Z"
+            }
+        ]
+    },
+    "7293847506182947": {
+        "account_holder": "Priya Sharma",
+        "balance": 6789.25,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5000.0,
+                "timestamp": "2025-06-10T08:30:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2100.0,
+                "timestamp": "2025-06-23T12:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 310.75,
+                "timestamp": "2025-06-30T17:45:25.369741"
+            }
+        ]
+    },
+    "3847291058472639": {
+        "account_holder": "James Mitchell",
+        "balance": 8234.70,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 6000.0,
+                "timestamp": "2025-06-12T10:00:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-25T14:30:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 265.30,
+                "timestamp": "2025-07-04T13:20:40.258963"
+            }
+        ]
+    },
+    "9384750264738291": {
+        "account_holder": "Maria Santos",
+        "balance": 1987.45,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-06-17T09:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 112.55,
+                "timestamp": "2025-06-29T15:30:18.654321"
+            },
+            {
+                "type": "deposit",
+                "amount": 600.0,
+                "timestamp": "2025-07-06T11:15:00Z"
+            }
+        ]
+    },
+    "6184729305847392": {
+        "account_holder": "Hiroshi Tanaka",
+        "balance": 5456.30,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3800.0,
+                "timestamp": "2025-06-14T12:20:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 343.70,
+                "timestamp": "2025-06-28T10:55:30.741852"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-07-01T16:30:00Z"
+            }
+        ]
+    },
+    "2847395061728394": {
+        "account_holder": "Isabella Garcia",
+        "balance": 3678.90,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2500.0,
+                "timestamp": "2025-06-16T13:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 221.10,
+                "timestamp": "2025-06-24T18:25:45.987321"
+            },
+            {
+                "type": "deposit",
+                "amount": 1400.0,
+                "timestamp": "2025-07-03T09:40:00Z"
+            }
+        ]
+    },
+    "5029384756294847": {
+        "account_holder": "Ahmed El-Masry",
+        "balance": 7234.60,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 5500.0,
+                "timestamp": "2025-06-11T11:30:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-26T15:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 265.40,
+                "timestamp": "2025-07-02T14:10:35.123789"
+            }
+        ]
+    },
+    "8374920584739502": {
+        "account_holder": "Sophie Dubois",
+        "balance": 4567.85,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 3200.0,
+                "timestamp": "2025-06-19T10:15:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 132.15,
+                "timestamp": "2025-06-27T16:50:20.456123"
+            },
+            {
+                "type": "deposit",
+                "amount": 1500.0,
+                "timestamp": "2025-07-05T12:30:00Z"
+            }
+        ]
+    },
+    "1847392058394756": {
+        "account_holder": "Mikhail Petrov",
+        "balance": 6123.40,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4500.0,
+                "timestamp": "2025-06-13T14:45:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 376.60,
+                "timestamp": "2025-06-25T11:20:30.852741"
+            },
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-07-04T17:15:00Z"
+            }
+        ]
+    },
+    "7394850261947382": {
+        "account_holder": "Aisha Okonkwo",
+        "balance": 2890.75,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 2000.0,
+                "timestamp": "2025-06-20T08:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 109.25,
+                "timestamp": "2025-06-28T13:35:45.963852"
+            },
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2025-07-07T15:20:00Z"
+            }
+        ]
+    },
+    "9284756103847392": {
+        "account_holder": "Lars Andersen",
+        "balance": 5678.50,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 4000.0,
+                "timestamp": "2025-06-15T09:30:00Z"
+            },
+            {
+                "type": "deposit",
+                "amount": 2100.0,
+                "timestamp": "2025-06-29T14:00:00Z"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 421.50,
+                "timestamp": "2025-07-06T16:45:25.741963"
+            }
+        ]
+    }
+}
