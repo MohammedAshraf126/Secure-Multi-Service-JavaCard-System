@@ -1,4 +1,4 @@
----
+
 
 ## Mutual Authentication Process
 
@@ -24,7 +24,7 @@ The reader receives the card's encrypted response and decrypts it using its shar
 
 Once both the card and the reader have successfully authenticated each other, the `authState` on the card changes to `STATE_CLIENTAUTHENTICATED`, allowing for subsequent secure data exchanges.
 
----
+
 
 ## Cryptographic Technologies Used
 
