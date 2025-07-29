@@ -1,5 +1,5 @@
 1. Mutual Authentication Process
-Your system employs a challenge-response mutual authentication protocol based on AES encryption. This ensures that both the smart card and the reader verify each other's authenticity before any sensitive data is exchanged. The process unfolds in these steps:
+Our system employs a challenge-response mutual authentication protocol based on AES encryption. This ensures that both the smart card and the reader verify each other's authenticity before any sensitive data is exchanged. The process unfolds in these steps:
 
 Step 1: Reader Selects Applet: The reader initiates communication by sending an APDU command (SELECT Applet) to select the specific service applet (e.g., Banking, Voting, Transport, Electricity) on the smart card.
 
