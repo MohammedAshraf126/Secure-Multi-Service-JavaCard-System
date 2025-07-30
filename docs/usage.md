@@ -1,182 +1,241 @@
-This document provides a step-by-step guide on how to build your JavaCard project using Eclipse, deploy the applets to the Java Card Development Kit Simulator, and then interact with them using the Python reader applications.
 
-Before you begin: Ensure you have completed all the prerequisites and environment variable configurations detailed in the docs/setup.md file. Specifically, ensure your JDK, JCDK, and GlobalPlatformPro paths are correctly set up, and that the JCDK Simulator has been provisioned using Configurator.jar.
+# JavaCard Project Setup Guide (Eclipse + Simulator + Python Readers)
 
-1. Building and Deploying JavaCard Applets (using Eclipse & Simulator)
-This section guides you through setting up your project in Eclipse, compiling your applets, and deploying them to the Java Card Simulator.
+This document provides a **step-by-step guide** on how to:
 
-1.1. Create JavaCard Project in Eclipse
-Open Eclipse IDE.
+* Build your JavaCard project using **Eclipse**
+* Deploy the applets to the **Java Card Development Kit Simulator**
+* Interact with them using **Python reader applications**
 
-Go to File > New > Java Card Project.
+> ✅ **Before we Begin:**
+> Make sure you've completed all the prerequisites and environment variable configurations detailed in `docs/setup.md`.
+> Specifically, ensure the following are correctly set up:
 
-Follow the wizard to create a new project. Give it a meaningful name (e.g., SecureMultiServiceApplets).
+* `JDK`
+* `JCDK`
+* `GlobalPlatformPro`
+* The JCDK Simulator is provisioned using `Configurator.jar`.
 
-Ensure you select the correct Java Card platform (e.g., Sample_Platform pointing to your JCDK Simulator installation) during project creation or in project properties.
+---
 
-1.2. Import Your Java Code
-In your newly created Eclipse JavaCard project, navigate to the src folder.
+## 1. Building and Deploying JavaCard Applets (Eclipse + Simulator)
 
-Right-click on the src folder and select Import > General > File >New > others
+### 1.1 Create JavaCard Project in Eclipse
 
-<img width="1918" height="793" alt="image" src="https://github.com/user-attachments/assets/e327dd4d-f7e8-469d-94ef-1fb501d1b3f3" />
+1. Open **Eclipse IDE**
+2. Navigate to: `File > New > Java Card Project`
+3. Follow the wizard:
 
-select java card project
+   * Give the project a meaningful name (e.g., `SecureMultiServiceApplets`)
+   * Select the correct Java Card platform (e.g., `Sample_Platform` pointing to your JCDK Simulator installation)
 
-<img width="683" height="496" alt="image" src="https://github.com/user-attachments/assets/4fe1553e-d0fd-429d-a66c-6abc7a25bd17" />
+---
 
-now begin to fill the project details like project name applet name package name applet AID then click next then click finish.
+### 1.2 Import Your Java Code
 
-<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e1f22d13-e0ab-405d-817c-5e04b7f3d553" />
+1. In your newly created Eclipse JavaCard project, navigate to the `src` folder
+2. Right-click `src > Import > General > File > New > Others`
+3. Select **Java Card Project**
 
-now go to the src path where we will write our java code for example /home/kali/eclipse-workspace/Banking/src/com/Metwally/Banking/Banking.java
-then put our bank code then ctrl+s eclipse will convert it to cap file
 
-<img width="1911" height="745" alt="image" src="https://github.com/user-attachments/assets/eb4bc1d6-c6da-4906-bca3-590ec666cd2f" />
+![Create Java Card Project](https://github.com/user-attachments/assets/e327dd4d-f7e8-469d-94ef-1fb501d1b3f3)
 
-1.3. Convert Java Code to CAP Files
-Eclipse, with the Java Card Development Kit Plug-in, automates the compilation to CAP files.
+4. Fill in:
 
-Eclipse should automatically build the project and generate the .cap files in a designated bin or cap folder within your Eclipse project directory (e.g., SecureMultiServiceApplets/cap/).
+   * Project name
+   * Applet name
+   * Package name
+   * Applet AID
 
-If not, right-click on your project and select Build Project or Clean Project then Build Project.
 
-Verify that .cap files (e.g., Banking.cap, Electricity.cap, transport.cap, Myvoting1.cap) are generated.
+![Applet Details](https://github.com/user-attachments/assets/4fe1553e-d0fd-429d-a66c-6abc7a25bd17)
 
-1.4. Run the JCDK Simulator
-The JCDK Simulator (jcsl for Linux, jcsw.exe for Windows) simulates a physical Java Card, allowing your readers to connect to it.
+5. Click **Next** then **Finish**
 
-Open a new terminal session.
 
-Export the LD_LIBRARY_PATH (Linux only):
-This command ensures the simulator can find its necessary shared libraries. Adjust the path to your JC_HOME_SIMULATOR installation.
+![Project Ready](https://github.com/user-attachments/assets/e1f22d13-e0ab-405d-817c-5e04b7f3d553)
 
+6. Navigate to your source directory (e.g., `/home/kali/eclipse-workspace/Banking/src/com/Metwally/Banking/Banking.java`)
+7. Paste your Java code and press `Ctrl + S` to save.
+
+
+![CAP Compilation](https://github.com/user-attachments/assets/eb4bc1d6-c6da-4906-bca3-590ec666cd2f)
+
+---
+
+### 1.3 Convert Java Code to CAP Files
+
+* Eclipse (with Java Card plugin) will automatically compile to `.cap` files.
+* Output is located in the `cap/` or `bin/` directory of your Eclipse project.
+
+If not generated:
+
+* Right-click the project → `Build Project` or `Clean Project > Build Project`
+* Confirm that `.cap` files like:
+
+  * `Banking.cap`
+  * `Electricity.cap`
+  * `transport.cap`
+  * `Myvoting1.cap`
+    are generated.
+
+---
+
+### 1.4 Run the JCDK Simulator
+
+1. Open a **new terminal**
+2. Set the `LD_LIBRARY_PATH` (Linux only):
+
+```bash
 export LD_LIBRARY_PATH="/home/kali/Downloads/java_card_devkit_simulator-linux-bin-v24.1-b_289-06-OCT-2024/runtime/bin:$LD_LIBRARY_PATH"
+```
 
-Start the Simulator:
-Navigate to the runtime/bin directory within your JCDK Simulator installation and run the simulator executable.
+3. Navigate to the simulator binary directory:
 
+```bash
 cd /home/kali/Downloads/java_card_devkit_simulator-linux-bin-v24.1-b_289-06-OCT-2024/runtime/bin
 ./jcsl -p=9020
+```
 
-The -p=9020 flag sets the port for the simulator to listen on for PC/SC connections. You should see output indicating the simulator is running and listening.
+* The `-p=9020` flag tells the simulator to listen on port 9020.
 
-<img width="1912" height="790" alt="image" src="https://github.com/user-attachments/assets/214c1418-83df-4f6b-9979-4fb60a6d34cb" />
-.
 
-1.5. Run the PC/SC Daemon
-For your Python readers to communicate with the Java Card Simulator (or a physical reader) via PC/SC, the pcscd daemon must be running.
+![Simulator Running](https://github.com/user-attachments/assets/214c1418-83df-4f6b-9979-4fb60a6d34cb)
 
-Open another new terminal session.
+---
 
-Start pcscd in foreground debug mode:
+### 1.5 Run the PC/SC Daemon
 
+1. Open **another terminal**
+2. Start the PC/SC daemon:
+
+```bash
 sudo pcscd -f -d -a
+```
 
--f: Run in foreground.
+* `-f`: Foreground
+* `-d`: Debug messages
+* `-a`: Auto-start on card insert/removal
 
--d: Enable debug messages.
 
--a: Start automatically on card insertion/removal.
+![PCSC Daemon Running](https://github.com/user-attachments/assets/1be9c8bc-e561-437d-b976-f2288bb9d6ca)
 
-This command provides detailed output that can be helpful for troubleshooting connection issues.
+---
 
-<img width="1916" height="799" alt="image" src="https://github.com/user-attachments/assets/1be9c8bc-e561-437d-b976-f2288bb9d6ca" />
-.
+### 1.6 Install Applets using GlobalPlatformPro
 
-1.6. Install Applets using GlobalPlatformPro (GPPro)
-Now that the simulator is running and pcscd is active, you can use GlobalPlatformPro to load and install your compiled CAP files onto the simulated card.
+1. Open **another terminal**
+2. Navigate to the directory where `gp.jar` is located
+3. **List existing applets**:
 
-Open yet another new terminal session.
-
-Navigate to the directory containing your gp.jar file (or ensure gp.jar is in your PATH).
-
-List existing applets (optional, but good to check):
-Before installing, you can verify the connection and current state of the simulator. Use the SCP03 keys that you provisioned with Configurator.jar.
-
+```bash
 java -jar gp.jar \
   --list \
   --key-enc 1111111111111111111111111111111111111111111111111111111111111111 \
   --key-mac 2222222222222222222222222222222222222222222222222222222222222222 \
   --key-dek 3333333333333333333333333333333333333333333333333333333333333333
+```
 
-This command lists applets on the connected card/simulator, using the specified SCP03 keys for secure communication.
 
-<img width="1886" height="789" alt="image" src="https://github.com/user-attachments/assets/86670632-1e82-4a5d-b955-d161a73c4faf" />
-.
+![List Applets](https://github.com/user-attachments/assets/86670632-1e82-4a5d-b955-d161a73c4faf)
 
-Install each applet:
-You will need to run the --install command for each of your applet CAP files. Replace path/to/your/applet.cap with the actual path to your generated CAP files (e.g., from your Eclipse project's cap/ or bin/ directory).
+---
 
-# Example for Banking applet
+### Install Each Applet
+
+```bash
+# Example: Banking Applet
 java -jar gp.jar \
   --install path/to/your/Banking.cap \
   --key-enc 1111111111111111111111111111111111111111111111111111111111111111 \
   --key-mac 2222222222222222222222222222222222222222222222222222222222222222 \
   --key-dek 3333333333333333333333333333333333333333333333333333333333333333
 
-# Repeat for Electricity, Transport, and Myvoting1 applets,
-# making sure to use their respective .cap file paths.
+# Repeat for each applet
 java -jar gp.jar --install path/to/your/Electricity.cap ...
 java -jar gp.jar --install path/to/your/transport.cap ...
 java -jar gp.jar --install path/to/your/Myvoting1.cap ...
-
-Ensure the SCP03 keys --key-enc, --key-mac, --key-dek match the ones used during simulator provisioning.
-
-<img width="1873" height="332" alt="image" src="https://github.com/user-attachments/assets/6d08c08d-d1cd-40c6-a92d-5e5c867466c8" />
+```
 
 
-2. Running Python Reader Applications
-With the applets deployed on the simulator (or physical card) and pcscd running, you can now execute the Python reader applications to interact with your JavaCard system.
+![Applets Installed](https://github.com/user-attachments/assets/6d08c08d-d1cd-40c6-a92d-5e5c867466c8)
 
-Open a new terminal session.
+---
 
-Activate your Python virtual environment (if you created one during setup):
+## 2. Running Python Reader Applications
 
-On Windows: .venv\Scripts\activate
+With the simulator and pcscd running and applets installed, you can now interact with them using Python scripts.
 
-On Linux/macOS: source .venv/bin/activate
+### Prerequisites
 
-Navigate to the src/python-readers directory:
+Activate your Python virtual environment:
 
+```bash
+# On Windows
+.venv\Scripts\activate
+
+# On Linux/macOS
+source .venv/bin/activate
+```
+
+Navigate to the reader directory:
+
+```bash
 cd Secure-Multi-Service-JavaCard-System/src/python-readers
+```
 
-2.1. Voting Service Reader
-This reader communicates with the Myvoting1 applet to retrieve voter data and simulate a voting process.
+---
 
+### 2.1 Voting Service Reader
+
+```bash
 python3 voting_reader.py
+```
 
-Follow the prompts. This script will perform mutual authentication, retrieve signed voter data, and present a voting menu.
+* Retrieves voter data
+* Simulates voting interaction
 
-Screenshot Placeholder: Voting Reader in Action
-Insert a screenshot here showing the terminal output of voting_reader.py demonstrating authentication and the voting menu/interaction.
 
-2.2. Banking Service Reader
-This reader interacts with the Banking applet to demonstrate banking operations like balance checks, transfers, and withdrawals.
+![Voting Reader](https://github.com/user-attachments/assets/36d82f87-934e-488d-aea6-7e4adc541f79)
 
+---
+
+### 2.2 Banking Service Reader
+
+```bash
 python3 bank_reader.py
+```
 
-Follow the prompts. This script will perform mutual authentication, retrieve signed banking data, and present a banking menu.
+* Retrieves banking info
+* Allows transfers, withdrawals, and balance checks
 
-Screenshot Placeholder: Banking Reader in Action
-Insert a screenshot here showing the terminal output of bank_reader.py demonstrating authentication and the banking menu/interaction.
 
-2.3. Transport Service Reader
-This reader communicates with the transport applet to simulate ticket purchases.
+![Banking Reader](https://github.com/user-attachments/assets/08ed10fa-a61b-4f98-8758-fd2c294f8489)
 
+---
+
+### 2.3 Transport Service Reader
+
+```bash
 python3 transport_reader.py
+```
 
-Follow the prompts. This script will perform mutual authentication, retrieve signed transport data, and guide you through a ticket purchase simulation.
+* Simulates ticket purchase
+* Retrieves transport data
 
-Screenshot Placeholder: Transport Reader in Action
-Insert a screenshot here showing the terminal output of transport_reader.py demonstrating authentication and the ticket purchase interaction.
 
-2.4. Electricity Service Reader
-This reader interacts with the Electricity applet to simulate charging an electricity meter.
+![Transport Reader](https://github.com/user-attachments/assets/42186226-478a-49c8-bc9d-e65644c0a939)
 
+---
+
+### 2.4 Electricity Service Reader
+
+```bash
 python3 Electricity_reader.py
+```
 
-Follow the prompts. This script will perform mutual authentication, retrieve signed electricity meter data, and simulate the charging process.
+* Retrieves meter data
+* Simulates charging
 
-Screenshot Placeholder: Electricity Reader in Action
-Insert a screenshot here showing the terminal output of Electricity_reader.py demonstrating authentication and the meter charging interaction.
+
+![Electricity Reader](https://github.com/user-attachments/assets/4f83b902-3528-4a57-8230-788ae657df9e)
